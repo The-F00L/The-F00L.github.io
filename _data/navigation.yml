@@ -1,7 +1,11 @@
 main:
-  - title: "About"
-    url: /about/
   - title: "Certifications" 
     url: /certifications/
+  - title: "Projects"
+    url: /projects/
+  - title: "My Story"
+    url: /mystory/
   - title: "Blog"
     url: /posts/
+  - title: "About"
+    url: /about/
