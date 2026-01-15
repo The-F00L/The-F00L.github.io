@@ -17,6 +17,24 @@ Welcome to my cybersecurity journey - where "just one more challenge" turned int
 ---
 
 <div style="display: flex; align-items: center; margin-bottom: 30px; padding: 20px; border: 1px solid #eee; border-radius: 8px;">
+  <img src="/assets/images/certs/sec/THM-SAL1.png" alt="TryHackMe Security Analyst Level 1" style="width: 300px; margin-right: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <div>
+    <h3>TryHackMe SAL1 (Security Analyst Level 1)</h3>
+    <p><strong>Defensive thinking unlocked:</strong> SAL1 was the point where blue-team work stopped being abstract and started making sense. Instead of “alerts on a screen,” it became about context, investigation and decision-making. Less theory, more realism — and a strong reminder that good defense requires understanding how attackers actually operate.</p>
+    <p><em>Skills that stuck: Alert triage, incident investigation, attacker-minded defense</em></p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 30px; padding: 20px; border: 1px solid #eee; border-radius: 8px;">
+  <img src="/assets/images/certs/sec/THM-AoC_2025.png" alt="TryHackMe Advent of Cyber" style="width: 300px; margin-right: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <div>
+    <h3>Advent of Cyber</h3>
+    <p><strong>The December tradition:</strong> What started as “one challenge a day” quietly turned into a yearly ritual. Advent of Cyber proved that learning security doesn’t need perfect conditions — just curiosity and consistency. Every December added new layers: from basic fundamentals to malware, cloud missteps and defensive thinking. Same calendar, deeper understanding each year.</p>
+    <p><em>Holiday habit: Advent of Cyber, every December</em></p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 30px; padding: 20px; border: 1px solid #eee; border-radius: 8px;">
   <img src="/assets/images/certs/sec/THM-SOC-lv1.png" alt="TryHackMe SOC Level 1" style="width: 300px; margin-right: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   <div>
     <h3>TryHackMe SOC Level 1</h3>
