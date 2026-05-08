@@ -38,17 +38,29 @@ The Hungarian vocational education system gave me something invaluable: hands-on
 
 ## 💼 The Professional Evolution
 
-### Content Development Team Lead
-**Avatao** | *September 2022 - Present*
+### Full Stack Software Developer
+**Avatao** | *November 2025 - Present*
 
-Leading a team that creates cybersecurity education content while also developing backend solutions for our platform has taught me something fascinating: the best way to truly understand something is to figure out how to teach it to someone else.
+This role pulled me deeper into platform engineering. Instead of focusing mostly on content, I'm now working on the systems that make thousands of hands-on lab environments actually run reliably for real users.
 
 **What I actually do:**
-- Guide a team of content developers who turn complex technical concepts into engaging learning experiences
-- Create cybersecurity education content that bridges theory and practical application
-- Develop backend solutions and platform features that enhance the learning experience
-- Build systems that can scale educational content delivery efficiently
-- Learn constantly from both my team and the learners using our platform
+- Build and maintain Python backend services that manage the full lifecycle of 1500+ per-user security labs
+- Work with PostgreSQL, APIs, background workers (Celery), and scheduled jobs to automate provisioning, execution, and cleanup
+- Improve stability by refactoring fragile legacy components and troubleshooting failures across microservices (including gRPC)
+- Maintain and extend the backend logic that launches isolated per-user lab environments as Kubernetes pods
+- Collaborate with CircleCI and GCP environments when tracking down infrastructure- and environment-specific issues
+
+### Content Development Team Lead
+**Avatao** | *September 2022 - November 2025*
+
+This is where I learned how much leadership and engineering can reinforce each other. Building educational content while supporting platform development taught me that the fastest way to sharpen your own understanding is to help others build theirs.
+
+**What I actually did:**
+- Guided a team of content developers who turned complex technical topics into practical, engaging learning experiences
+- Created cybersecurity training content that connected theory with hands-on application
+- Built backend solutions and platform features that improved how learners interacted with labs and content
+- Helped scale content delivery systems so growing usage did not compromise quality
+- Learned continuously from both the team and the learners using the platform
 
 ### Content Developer
 **Avatao** | *May 2022 - September 2022*
