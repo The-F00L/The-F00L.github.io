@@ -33,8 +33,20 @@ These aren't just pretty badges on a wall - each one represents a rabbit hole I 
 
 <div style="border: 2px solid #6f42c1; border-radius: 10px; padding: 20px; text-align: center; background: linear-gradient(135deg, #f8f5ff 0%, #e0d4ff 100%);">
   <h2 style="color: #6f42c1; margin-top: 0;">🎯 The Weird & Wonderful</h2>
-  <p>The certifications that don't fit neatly into categories but were too interesting to ignore. Sometimes the best learning happens in the margins.</p>
+  <p>Computer-adjacent detours like design, product, platforms, and the certifications that still connect back to digital work.</p>
   <a href="/certifications/miscellaneous/" class="btn btn--info">Embrace the Chaos</a>
+</div>
+
+<div style="border: 2px solid #d63384; border-radius: 10px; padding: 20px; text-align: center; background: linear-gradient(135deg, #fff0f6 0%, #ffd6e7 100%);">
+  <h2 style="color: #d63384; margin-top: 0;">🤖 AI & Agents</h2>
+  <p>Model fundamentals, Claude workflows, MCP, subagents, and the certifications focused directly on modern AI systems.</p>
+  <a href="/certifications/ai/" class="btn btn--danger">Meet the Machines</a>
+</div>
+
+<div style="border: 2px solid #795548; border-radius: 10px; padding: 20px; text-align: center; background: linear-gradient(135deg, #fdf8f3 0%, #eadbc8 100%);">
+  <h2 style="color: #795548; margin-top: 0;">🌍 IRL Adventures</h2>
+  <p>The certifications that matter away from the keyboard: practical, human, operational, and real-world side quests.</p>
+  <a href="/certifications/irl/" class="btn btn--inverse">Touch Grass</a>
 </div>
 
 </div>
