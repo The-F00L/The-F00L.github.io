@@ -17,6 +17,24 @@ Welcome to my cybersecurity journey - where "just one more challenge" turned int
 ---
 
 <div style="display: flex; align-items: center; margin-bottom: 30px; padding: 20px; border: 1px solid #eee; border-radius: 8px;">
+  <img src="/assets/images/certs/sec/THM-Hacker-Holiday.png" alt="TryHackMe Hacker Holidays" style="width: 300px; margin-right: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <div>
+    <h3>Hacker Holidays</h3>
+    <p><strong>Five stars, would breach again:</strong> Checked into the Byte Lotus, checked out fourteen days later having rooted every room along the way. TryHackMe's summer seasonal event proved that "vacation mode" and "pop every box in the hotel" aren't mutually exclusive.</p>
+    <p><em>Souvenirs collected: privilege escalation chains, lateral movement across a themed network, the enduring instinct to check every open port</em></p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 30px; padding: 20px; border: 1px solid #eee; border-radius: 8px;">
+  <img src="/assets/images/certs/sec/THM-SEC0.png" alt="TryHackMe SEC0 Certification" style="width: 300px; margin-right: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <div>
+    <h3>SEC0 (Pre Security, Exam-Verified)</h3>
+    <p><strong>Going back to go forward:</strong> Revisited the Pre Security path in July 2026 to shore up the fundamentals, then sat the SEC0 exam days later to prove it wasn't just muscle memory. First TryHackMe badge earned through a proctored assessment instead of a learning-path completion bar.</p>
+    <p><em>Verified under pressure: networking fundamentals, OS internals, web basics</em></p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 30px; padding: 20px; border: 1px solid #eee; border-radius: 8px;">
   <img src="/assets/images/certs/sec/THM-SAL1.png" alt="TryHackMe Security Analyst Level 1" style="width: 300px; margin-right: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   <div>
     <h3>TryHackMe SAL1 (Security Analyst Level 1)</h3>
