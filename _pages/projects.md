@@ -48,6 +48,14 @@ The projects here represent:
         <a href="/ai/where-my-github-token-ended-up/" class="btn btn--inverse btn--small">Read the story</a>
       </div>
       
+      <div style="background: linear-gradient(135deg, #ffebee 0%, #ffcdd2 100%); padding: 20px; border-radius: 8px; border: 1px solid #f44336;">
+        <div style="font-size: 2em; margin-bottom: 10px;">❤️</div>
+        <h4 style="color: #d32f2f; margin-bottom: 10px;">HeartFriend</h4>
+        <p style="color: #c62828; font-size: 0.9em;"><strong>A pocket-sized robot friend:</strong> I built it just for fun, and to see what AI is capable of outside of the usual code. Claude wrote the ESP32 firmware and designed the 3D-printed enclosure too. Pet its left cheek and it blushes, poke the right one and it does a trick, leave it alone and it falls asleep. And yes, it's printed and it actually works.</p>
+        <p style="color: #c62828; font-size: 0.85em;"><em>ESP32 (LilyGO T-Display), C++/Arduino, TFT_eSPI, CAD, 3D printing, Claude</em></p>
+        <a href="https://github.com/The-F00L/heartfriend-esp32" class="btn btn--primary btn--small">GitHub</a>
+      </div>
+      
       <div style="background: linear-gradient(135deg, #f3e5f5 0%, #e1bee7 100%); padding: 20px; border-radius: 8px; border: 1px solid #9c27b0;">
         <div style="font-size: 2em; margin-bottom: 10px;">🔒</div>
         <h4 style="color: #7b1fa2; margin-bottom: 10px;">Security Experiments</h4>
