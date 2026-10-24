@@ -40,9 +40,12 @@ The projects here represent:
     <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin: 30px 0;">
       
       <div style="background: linear-gradient(135deg, #e3f2fd 0%, #bbdefb 100%); padding: 20px; border-radius: 8px; border: 1px solid #2196f3;">
-        <div style="font-size: 2em; margin-bottom: 10px;">💻</div>
-        <h4 style="color: #1976d2; margin-bottom: 10px;">Development Projects</h4>
-        <p style="color: #1565c0; font-size: 0.9em;">Full-stack applications, APIs, automation scripts, and tools that actually solve real problems</p>
+        <div style="font-size: 2em; margin-bottom: 10px;">⭐</div>
+        <h4 style="color: #1976d2; margin-bottom: 10px;">StarVault</h4>
+        <p style="color: #1565c0; font-size: 0.9em;"><strong>A home for my GitHub stars:</strong> a few hundred of them, and no nice way to share a list with a friend, so one late night I built my own catalog. It was supposed to be frontend only. It ended up with a tiny Cloudflare proxy, a separate machine account for the token, and a self-hosted twin.</p>
+        <p style="color: #1565c0; font-size: 0.85em;"><em>Cloudflare Workers, SQLite, GitHub REST/GraphQL, Claude Opus, Stitch</em></p>
+        <a href="https://starvault.thezero-thef00l.workers.dev/" class="btn btn--primary btn--small">Live</a>
+        <a href="/ai/where-my-github-token-ended-up/" class="btn btn--inverse btn--small">Read the story</a>
       </div>
       
       <div style="background: linear-gradient(135deg, #f3e5f5 0%, #e1bee7 100%); padding: 20px; border-radius: 8px; border: 1px solid #9c27b0;">
