@@ -22,7 +22,7 @@ I'm not presenting myself as an expert. I'm embracing being a **perpetual learne
 
 ## 🌟 Why I Created This
 
-As someone who leads content development in technology education, I understand the value of **learning in public**. Working at Avatao has shown me that how people learn is often more valuable than what they learn.
+As someone who spent years building content and platforms for technology education, I understand the value of **learning in public**. My time at Avatao showed me that how people learn is often more valuable than what they learn.
 
 This site serves as my personal knowledge base and a way to stay accountable to my learning goals. It's also my contribution to the technology community's spirit of knowledge sharing, offering honest insights from both a learner's and educator's perspective.
 
@@ -32,7 +32,7 @@ This site serves as my personal knowledge base and a way to stay accountable to 
 
 **[Certifications Showcase](/certifications/)** - Not just images of certificates, but the stories behind them. Why I chose each one, what I learned beyond the official curriculum, and real insights into different learning platforms.
 
-**[My Story](/mystory/)** - The professional and educational background that shapes my learning approach, from discovering Turbo Pascal in 8th grade to leading technology education content development.
+**[My Story](/mystory/)** - The professional and educational background that shapes my learning approach, from discovering Turbo Pascal in 8th grade to building software for cybersecurity education.
 
 **[Projects & Experiments](/projects/)** - Documentation of learning-driven projects where I turn theoretical knowledge into working solutions, including the failures and breakthrough moments.
 

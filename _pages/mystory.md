@@ -38,17 +38,20 @@ The Hungarian vocational education system gave me something invaluable: hands-on
 
 ## 💼 The Professional Evolution
 
+### Software Engineer
+**OffSec** | *August 2026 - Present*
+
 ### Full Stack Software Developer
-**Avatao** | *November 2025 - Present*
+**Avatao** | *November 2025 - July 2026*
 
-This role pulled me deeper into platform engineering. Instead of focusing mostly on content, I'm now working on the systems that make thousands of hands-on lab environments actually run reliably for real users.
+This role pulled me deeper into platform engineering. Instead of focusing mostly on content, I was working on the systems that make thousands of hands-on lab environments actually run reliably for real users.
 
-**What I actually do:**
-- Build and maintain Python backend services that manage the full lifecycle of 1500+ per-user security labs
-- Work with PostgreSQL, APIs, background workers (Celery), and scheduled jobs to automate provisioning, execution, and cleanup
-- Improve stability by refactoring fragile legacy components and troubleshooting failures across microservices (including gRPC)
-- Maintain and extend the backend logic that launches isolated per-user lab environments as Kubernetes pods
-- Collaborate with CircleCI and GCP environments when tracking down infrastructure- and environment-specific issues
+**What I actually did:**
+- Built and maintained Python backend services that manage the full lifecycle of 1500+ per-user security labs
+- Worked with PostgreSQL, APIs, background workers (Celery), and scheduled jobs to automate provisioning, execution, and cleanup
+- Improved stability by refactoring fragile legacy components and troubleshooting failures across microservices (including gRPC)
+- Maintained and extended the backend logic that launches isolated per-user lab environments as Kubernetes pods
+- Collaborated with CircleCI and GCP environments when tracking down infrastructure- and environment-specific issues
 
 ### Content Development Team Lead
 **Avatao** | *September 2022 - November 2025*

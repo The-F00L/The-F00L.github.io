@@ -59,7 +59,7 @@ These aren't just pretty badges on a wall - each one represents a rabbit hole I 
 
 <div style="display: flex; justify-content: space-around; text-align: center; margin: 30px 0; flex-wrap: wrap;">
   <div style="margin: 10px;">
-    <h3 style="color: #007acc; margin-bottom: 5px;">50+</h3>
+    <h3 style="color: #007acc; margin-bottom: 5px;">80+</h3>
     <p>Certificates Conquered</p>
   </div>
   <div style="margin: 10px;">
